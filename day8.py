@@ -97,4 +97,4 @@ with open('.\\txt files\\day8.txt','r') as f:
                 
     print(count)
     print(max_score)
-    f.close(f)
+    f.close()
