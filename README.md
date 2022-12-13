@@ -3,6 +3,5 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 # Link of the website 
 https://adventofcode.com/
 # About my solutions
-Here it is my solutions for different challenges using Python , the first ones unfortunately i didn't save them so i lost the scripts 
-perhaps i will re-write their scripts later 
+Here it is my solutions for different challenges using Python , i will be sharing the first challenges soon (day1-2-3-4) 
 -- Make sure to download the txt files dir
