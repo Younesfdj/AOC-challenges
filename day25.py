@@ -17,7 +17,6 @@ def SNAFU_to_dec(snafu:str)->int:
         sum+=i*d1[snafu[count]]
         count+=1
     return sum
-
 def dec_to_SNAFU(nbr:int)->str:
     snafu=""
     while nbr>0:
